@@ -1,0 +1,489 @@
+.div1{
+	height: 800px;
+    background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('images/intro.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.r{
+	height:400px;
+	width:600px;
+	float:right;
+	margin-top:250px;
+	margin-right: 50px;
+}
+.s{
+	float:left;
+	margin-top: 500px;
+	padding-left: 200px;
+    font-size: 60px;
+}
+.s h1{
+	font-size: 70px;
+	margin-right: 250px;
+	color: white;
+}
+.r1{
+	height:180px;
+	width:250px;
+    padding-top: 30px;
+	float:left;
+	margin-top:30px;
+	margin-left:40px;
+	background-color: white;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 20px;
+}
+.r1 i{
+	margin-top: 5px;
+	color:black;
+}
+.h{
+	font-size: 50px;
+	padding:150px;
+	padding-top:300px;
+	color:white;
+}
+.div2{
+	height: 500px;
+	width:100%;
+	padding:10px;
+}
+.a{
+    padding: 20px;
+	height:130px;
+	width:350px;
+	float:left;
+	margin-top:60px;
+	margin-left: 250px;
+	background-color: whitesmoke;
+	border-radius: 10px
+}
+.b{
+    padding: 20px;
+	height:130px;
+	width:350px;
+	float:left;
+	margin-top:60px;
+	margin-left: 70px;
+	background-color: whitesmoke;
+	border-radius: 10px;
+}
+.c{
+    padding: 20px;
+	height:130px;
+	width:350px;
+	float:left;
+	margin-top:60px;
+	margin-left: 250px;
+	background-color: whitesmoke;
+	border-radius: 10px;
+}
+.d{
+    padding: 20px;
+	height:130px;
+	width:350px;
+	float:right;
+	margin-top:60px;
+	margin-right:400px;
+	background-color: whitesmoke;
+	border-radius: 10px;
+}
+i{
+	display:inline;
+	padding:5px;
+	font-size:70px;
+	color:blue;
+	padding-top:10px;
+}
+.x{
+	float:left;
+
+}
+.div3{
+	position: relative;
+	height: 450px;
+	width: 100%;
+	padding-top:80px;
+	padding-left:400px;
+   /* background-color: black;*/
+}
+.div31 img{
+	width:200px;
+	height: 280px;
+	object-fit: cover;
+	position: absolute;
+	top:150px;
+	left: 800px;
+    /*border-radius: 20px;*/
+}
+.div31{
+	height: 300px;
+	width:500px;
+	background-color:blue;
+    /*border-radius: 40px;*/
+}
+.div31 h2{
+    text-align: left;
+    padding-top:30px;
+    padding-left:30px;
+    color: white;
+}
+.div31 p{
+    
+	padding-left:30px;
+    color: white;
+}
+.div3 button{
+    width: max-content;
+    padding: 10px 20px;
+    font-size: large;
+    background-color: blue;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.div4{
+    position: relative;
+	height:600px;
+	padding-top: 100px;
+	padding-left: 800px;
+}
+
+.j_a{
+	width: 350px;
+	height: 350px;
+	float: left;
+	background-color: white;
+	position: absolute;
+    left: 200px;
+    border-radius: 50%;
+    background-color: blue;     
+}
+.j_a img{
+	width: 250px;
+	height: 400px;
+	float: left;
+	position: absolute;
+	left: 55px;
+	border-radius: 15px;
+    object-fit: cover;
+}
+.j_b{
+	width: 500px;
+	height: 400px;
+	float: left;
+	margin-bottom: 100px;
+	position: relative;
+	right: 35px
+
+}
+.j_b h2{
+	padding-top: 35px;
+	padding-left: 35px;
+}
+
+.j_b h1{
+	padding-left: 35px;
+}
+
+.j_b p{
+	padding-left: 35px;
+}
+.j_c{
+	padding-left: 65px;
+}
+.j_d{
+    font-size: large;
+    padding: 10px 25px;
+    background-color: blue;
+    color: white;
+    border: 2px solid white;
+    margin-left: 50px;
+    border-radius: 30px;
+}
+
+.a_a{
+	width: 100%;
+	height: 400px;
+	background-color: whitesmoke;
+}
+.a_b{
+	width: 900px;
+	height: 200px;
+	float: left;
+	background-color: white;
+	position: relative;
+	left: 300px;
+	top:105px;
+}
+.a_b i{
+	padding-top: 50px;
+	padding-left: 40px;
+}
+.a_b h1{
+	padding-left: 150px;
+	position: relative;
+	bottom: 80px;
+
+}
+
+.a_b h3{
+	padding-left: 150px;
+	position: relative;
+	bottom: 80px;
+
+}
+.a_b button{
+	width: 150px;
+	height: 40px;
+	position: relative;
+	left: 705px;
+	bottom: 130px;
+	background-color: blue;
+	color: white;
+	border-radius: 20px;
+    border: none;
+}
+
+.us{
+    height: 700px;
+    position: relative;
+}
+.us .cir{
+    position: absolute;
+    top: 50px;
+    left: 1080px ;
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    background-color: blue;
+}
+.us .matter{
+    position: absolute;
+    width:250px;
+    height: 350px;
+    padding: 20px 40px 0px 80px;
+    background-color: rgb(230, 230, 230);
+    top: 100px;
+    left: 800px;
+    border-radius: 30px;
+}
+.us .p1{
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    top: 400px;
+    left: 200px;
+}
+.us .p1 img{
+    width: 100%;
+    object-fit: cover;
+    border-radius: 40px;
+}
+.us .p2{
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    top: 150px;
+    left: 450px;
+}
+.us .p2 img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 40px;
+}
+.us button{
+    font-size: large;
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+.help{
+    height: 500px;
+    text-align: center;
+}
+.help section{
+    display: flex;
+    justify-content: center;
+}
+.help .quo{
+    text-align: left;
+    height: 200px;
+    width: 200px;
+    padding: 10px 20px;
+    background-color: blue;
+    border-radius: 20px;
+    margin: 20px;
+    color: white;
+}
+.help i{
+    display: block;
+    color: white;
+}
+.help .per{
+    display: flex;
+    justify-content: center;
+}
+.help .per div{
+    width: 250px;
+    margin-right: 30px;
+}
+.help img{
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    margin-right: 20px;
+    border: 5px solid blue;
+}
+
+.team{
+    position: relative;
+    height: 700px;
+    margin-bottom: 50px;
+}
+.team div{
+    position: absolute;
+    top: 130px;
+    left:500px;
+    width: 600px;
+    height: 400px;
+    background-color:blue;
+    border-radius: 20px;
+}
+.team img{
+    position: absolute;
+    top:50px;
+    left: 450px;
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.team section{
+    position: absolute;
+    top: 300px;
+    left:200px;
+    background-color: whitesmoke;
+    width: 400px;
+    padding: 30px 40px;
+}
+.team button{
+    padding: 15px 30px;
+    color: white;
+    background-color: blue;
+    border-radius: 25px;
+    border: none;
+}
+
+.add{
+    position: relative;
+    height: 600px;
+    background-color: blue;
+}
+.add section{
+    position: absolute;
+    top:-100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cards{
+    padding: 10px 20px;
+    height: 200px;
+    width: 250px;
+    background-color: whitesmoke;
+    margin: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.cards i{
+    font-size: 50px;
+}
+.add article{
+    margin-top: 150px;
+    float: left;
+    width: 500px;
+    padding-left: 200px;
+    color: white;
+}
+.add article i{
+    color: white;
+    font-size: x-large;
+    margin: 5px;
+}
+.add h1{
+    font-size: 50px;
+}
+
+.add aside{
+    padding: 0px 30px;
+    margin-top: 150px;
+    float: right;
+    height: 300px;
+    width: 500px;
+}
+.add aside p{
+    font-size: 20px;
+    color: white;
+    margin:10px;
+}
+.add aside div:first-child{
+    width: 50%;
+    float: left;
+    margin-bottom: 30px;
+}
+.add aside div:nth-child(2){
+    width: 50%;
+    float: right;
+    margin-bottom: 30px;
+}
+input[type=email], input[type=text] {
+    margin-left: 20px;
+    width: 80%;
+    height: 30px;
+    color: white;
+    border: none;
+    background-color: blue;
+    border-bottom: 1px solid white;
+}
+textarea{
+    margin-left: 20px;
+    width: 70%;
+    height: 100px;
+    border: none;
+    background-color: blue;
+    border-bottom: 1px solid white;
+    margin-bottom: 20px;
+}
+input::placeholder, textarea::placeholder{
+    opacity: 0.8;
+    color: white;
+}
+.add button{
+    font-size: larger;
+    width: 90%;
+    height: 50px;
+    background-color: white;
+    border: none;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(50, 50, 50);
+    color: white;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+footer span{
+    color: skyblue;
+    text-decoration: underline;
+}
